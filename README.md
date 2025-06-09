@@ -1,16 +1,19 @@
-# eco_footprint_app
+# 🌱 Eco Footprint App
 
-A new Flutter project.
+This is a fully responsive, visually polished mobile app developed in Flutter for the internship assignment (Option 3) at **Jayadhi Limited**.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- ✅ Take a 10-question Eco Quiz
+- ✅ View a detailed score summary with visual progress bar
+- ✅ Join or leave the "No-Plastic Challenge" (with toggle & badge)
+- ✅ Weekly Eco Tips in a swipable carousel format
+- ✅ Animated UI with modern Material 3 styling
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter (Stable Channel)
+- Dart
+- `setState` (State management)
+- Material 3 UI
+## 🚀 Getting Started
